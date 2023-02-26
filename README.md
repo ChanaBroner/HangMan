@@ -1,4 +1,4 @@
-Hangman Game
+**Hangman Game
 This repository contains the implementation of a game of Hangman, 
 a guessing game where one player selects a secret word and the other tries to guess the word by suggesting letters. 
 For each incorrect guess, a part of a hangman is drawn. 
