@@ -10,7 +10,7 @@ This repository contains the implementation of a game of Hangman, a guessing gam
 ## Files
 This repository contains three files:
 
-- `HangManApplication.java:` This file launches the JavaFX application and sets up the main window of the game. It loads the HangMan.fxml file using a FXMLLoader and displays it in the Stage.
+- `HangMan.java:` This file launches the JavaFX application and sets up the main window of the game. It loads the HangMan.fxml file using a FXMLLoader and displays it in the Stage.
 - `HangManController.java:` This file contains the game logic for the Hangman game. It initializes the HangManLogic class, which contains the underlying data and game mechanics. It also handles user input and updates the graphics of the game using the javafx.scene library.
 - `HangManLogic.java:` This file contains the core logic for the Hangman game. It reads a dictionary file containing a list of possible words and selects a word at random. It keeps track of the letters that have been guessed, the state of the hangman, and the current state of the guessed word.
 
