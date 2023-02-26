@@ -1,4 +1,6 @@
 **Hangman Game
+![איש תלוי משחק תמונה](https://user-images.githubusercontent.com/125824958/221406135-78c487c5-a4ee-4512-9c90-eb61b24d0e31.png)
+
 This repository contains the implementation of a game of Hangman, 
 a guessing game where one player selects a secret word and the other tries to guess the word by suggesting letters. 
 For each incorrect guess, a part of a hangman is drawn. 
